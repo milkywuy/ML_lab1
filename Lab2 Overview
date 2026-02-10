@@ -1,0 +1,5 @@
+Lab 2
+
+The question i chose was "How does study time affect student's GPA?"
+finding a GPA requires a regression model as it a numeric value, i picked a a DB from Kaggle and used Google Colab to inspect the values
+I printed the first 5 rows along with the number of rows, columns and the average GPA and study time
